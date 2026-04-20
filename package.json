@@ -1,0 +1,8 @@
+{
+  "name": "reminders-cron",
+  "version": "1.0.0",
+  "dependencies": {
+    "@base44/sdk": "^1.0.0",
+    "resend": "^3.0.0"
+  }
+}
